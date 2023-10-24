@@ -1,0 +1,23 @@
+﻿@import"Bootstrap.css";
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background:linear-gradient(135deg,#01ADD3,#010F12);
+    width:100%;
+    min-height:100vh;
+}
+.main_login{
+    display:flex
+
+}
+.right{
+    width:40%;
+    height:100vh;
+    }
+.left{
+    width:60%;
+    height:100vh;
+}
